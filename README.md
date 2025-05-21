@@ -10,3 +10,4 @@ this beast has it all! 🌈 Dive into token formatting ✂️,
 online status mastery 🎮,
 and server info retrieval 📊,
 all wrapped in a sleek, user-friendly interface! 🚀 Built for speed ⚡ and epic convenience by the legend az6c | .gg/chadtag. Unleash the chaos and dominate your Discord experience! 💪🎊
+![image](https://github.com/user-attachments/assets/832ad260-012e-497d-87e3-0d0f16b7163b)
